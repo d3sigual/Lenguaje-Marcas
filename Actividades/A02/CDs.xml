@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+
+<bands languaje="English">
+
+    <band_name>The Beatles
+    
+      <album>
+        <album_name>A hard day's night</album_name>
+        <producer>EMI Records LTD</producer> 
+        <album_price currency="Dollar"></album_price>
+        <containing_songs>
+              <song>
+
+                <song_name>A hard day's night</song_name>
+                <duration time="Minutes and Seconds"></duration>
+                <singers></singers>
+                <released date="Day/Month/Year"></released>
+              </song>
+          
+              
+             <song>
+            
+            <song_name>I should have known better</song_name>
+            <duration time="Minutes and Seconds">l</duration>
+            <singers></singers>
+            <release date="Day/Month/Year"></release>
+            
+            </song>
+            
+            
+             <song>
+            
+            <song_name>If I fell</song_name>
+            <duration time="Minute and Seconds"></duration>
+            <singers></singers>
+            <release date="Day/Month/Year"></release>
+            
+            
+            </song>
+            
+             <song>
+            
+             <song_name>I'm happy just to dance with you</song_name>
+            <duration time="Minute and  Seconds"></duration>
+            <singers></singers>
+            <release date="Day/Month/Year"></release>
+            
+            
+            
+            </song>
+            
+            
+            <song>
+            <song_name>And I love her</song_name>
+            <duration time="Minute and Seconds"></duration>
+            <singers></singers>
+            <release date="Day/Month/Year"></release>
+            
+            
+            
+            
+            </song>
+
+        </containing_songs>
+    
+      
+      
+      
+      
+      
+      
+      </album>
+   </band_name>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</bands>
+
+
+

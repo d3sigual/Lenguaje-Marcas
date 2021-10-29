@@ -1,0 +1,151 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+  
+<libros_reserva_mundial>
+
+
+
+
+    <libreria>
+      <nombre_de_la_libreria>La casa del libro</nombre_de_la_libreria>
+          <libro>
+        
+                  <isbn>1224315</isbn>
+                  <titulo>Teo va al parque </titulo>
+                  <nivel>basico</nivel>
+                  <autores>Buero Vallejo y Federico Garcia Lorca</autores>
+                  <editorial> Bromera</editorial>
+                  <fecha_de_publicacion> 14 de Junio de 2003</fecha_de_publicacion>
+                  <precio moneda="Euro">100 euros</precio>
+     </libro>
+          <libro>
+        
+                  <isbn>1224315</isbn>
+                  <titulo>Teo va al parque </titulo>
+                  <nivel>basico</nivel>
+                  <autores>Anaximandro de Mileto</autores>
+                  <editorial> Bromera</editorial>
+                  <fecha_de_publicacion> 14 de Junio de 2003</fecha_de_publicacion>
+                  <precio moneda="Euro">100 euros</precio>
+     
+          </libro>
+
+
+
+
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          
+          <libro>
+          
+          
+          
+          <libro>
+          
+                 <isbn>1224315</isbn>
+                  <titulo>Gerardo va al parque </titulo>
+                  <nivel>basico</nivel>
+                  <autores>El Yoyas</autores>
+                  <editorial> Bromera</editorial>
+                  <fecha_de_publicacion> 14 de Junio de 2003</fecha_de_publicacion>
+                  <precio moneda="Euro">100 euros</precio>
+          
+          
+          
+          </libro> 
+          
+          
+          
+        
+                  <isbn>1224315</isbn>
+                  <titulo>Juan va a la oficina </titulo>
+                  <nivel>basico</nivel>
+                  <autores>AnPiter Visiete</autores>
+                  <editorial> Bromera</editorial>
+                  <fecha_de_publicacion> 14 de Junio de 2003</fecha_de_publicacion>
+                  <precio moneda="Euro">100 euros</precio>
+     
+        </libro>
+   
+    </libreria>
+    
+    
+   
+   
+   
+   
+   
+    <libreria>
+      <nombre_de_la_libreria>Amazon</nombre_de_la_libreria>
+    
+          <libro>
+                  
+                  
+                  
+                  <isbn>12324315</isbn>
+                  <titulo>Teo va al parque </titulo>
+                  <nivel>basico</nivel>
+                  <autores>Leonard Hofstader</autores>
+                  <editorial> BTheory</editorial>
+                  <fecha_de_publicacion> 14 de Junio de 2003</fecha_de_publicacion>
+                  <precio moneda="Euro">100 euros</precio>
+          
+          </libro>
+          
+          <libro>
+                  
+                  
+                  <isbn>1224315</isbn>
+                  <titulo>Teo va al parque </titulo>
+                  <nivel>basico</nivel>
+                  <autores>Buero Vallejo y Federico Garcia Lorca</autores>
+                  <editorial> Bromera</editorial>
+                  <fecha_de_publicacion> 14 de Junio de 2003</fecha_de_publicacion>
+                  <precio moneda="Euro">100 euros</precio>
+          
+          </libro>
+    
+    
+    
+    
+    
+    
+    
+    
+   
+   
+   
+   
+    
+          <libro>
+          
+          
+          
+                  <isbn>1224315</isbn>
+                  <titulo>The Pink Rabbit </titulo>
+                  <nivel>basico</nivel>
+                  <autores>William Shakespare</autores>
+                  <editorial> Oxford</editorial>
+                  <fecha_de_publicacion> 14 de Junio de 2003</fecha_de_publicacion>
+                  <precio moneda="Euro">100 euros</precio> 
+          
+          
+          
+          </libro>
+    
+    
+    
+    </libreria>
+
+
+
+</libros_reserva_mundial>

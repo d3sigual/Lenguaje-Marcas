@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<link rel="stylesheet" href="NewFile.css">
+<meta charset="UTF-8">
+<html>
+	<head>
+
+	<title>Práctica Bloque 3</title>
+
+	<h1 id="azul">Práctica Bloque 3</h1>
+
+<script>
+
+
+
+function PopUp(){
+	
+	var apellido = document.getElementById("apellido").value;
+	var nombre = document.getElementById("nombre").value;
+	alert("Bienvenido " +nombre   +apellido);
+  }
+
+</script>
+
+	</head>
+	<body>
+	<form>
+		<label for="nombre">Introduce nombre:</label>
+		<input type="text" id="nombre">
+		<label for="apellido">Introduce apellido1:</label>
+		<input type="text" onblur="PopUp()" id="apellido">
+	</form>
+	
+
+	</body>
+</html>

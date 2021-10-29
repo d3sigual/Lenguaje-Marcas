@@ -1,0 +1,12 @@
+﻿<carta>
+    <name>
+      <First>Juan</First>
+      <Last>De Jimenez</Last> 
+  </name>
+  <!--Suponiendo que de Jiménez es su único apellido, si tuvieras mas sería<first>Juan<first/><middle>Perez<middle/><last>Rodriguez<last/-->
+
+<direccion> Los Carmenes 33, Granada. 67774</direccion>
+<pais>España</pais>
+
+  
+</carta>

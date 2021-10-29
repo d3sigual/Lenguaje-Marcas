@@ -1,0 +1,22 @@
+@charset "UTF-8";
+
+#brown {
+	
+	color:brown;
+	text-align:center;
+}
+
+
+.center{
+	
+	text-align:center;
+}
+
+.left {
+	
+	text-align:left;
+}
+
+.right {
+	text-align:right;
+}
